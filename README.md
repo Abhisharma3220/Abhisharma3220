@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">A passionate Azure Cloud Engineer from India</h3>
 
+<img align="right" alt="DevOps" width="400" src="https://media.tenor.com/Lx9a655qOUsAAAAC/azure-signal.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisharma3220&label=Profile%20views&color=0e75b6&style=flat" alt="abhisharma3220" /> </p>
 
 - 🌱 I’m currently learning **DevSecops & Cloud DevOps**
