@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisharma3220&label=Profile%20views&color=0e75b6&style=flat" alt="abhisharma3220" /> </p>
 
-- 🌱 I’m currently learning **DevSecops & Cloud DevOps**
+- 🌱 I’m currently working for **DevSecops & Cloud DevOps**
 
 - 👨‍💻 All of my projects are available at [http://github.com/Abhisharma3220](http://github.com/Abhisharma3220)
 
